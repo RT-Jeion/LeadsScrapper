@@ -8,7 +8,7 @@ db = client['Leads']
 
 print(db.list_collection_names())
 
-data = db['searched_queries']
+data = db['Instra_Profiles']
 
 df = list(data.find({}))
 

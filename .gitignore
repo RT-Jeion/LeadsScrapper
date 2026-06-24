@@ -1,6 +1,6 @@
 .env
 
-_pycache/
+_pycache_/
 BraveDebug/
 html_pages/
-vevn/
+venv/
